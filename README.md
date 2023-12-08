@@ -1,5 +1,5 @@
-# Book-record-management-
-Book record management system using (C++)
+# Book-record-management
+Book record management system using C++
  # Book Information
 - Author Name
 - Title of the book
